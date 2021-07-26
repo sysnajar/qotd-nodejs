@@ -22,7 +22,7 @@ quotes.push(q);
 
 
 app.get('/', (req, res) => {
-    res.send('qotd');
+    res.send('qotd by sysnajar');
 });
 
 app.get('/version', (req, res) => {
