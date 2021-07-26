@@ -2,7 +2,7 @@ const express = require('express');
 
 const app = express();
 
-const port = 10000;
+const port = 8080;
 
 
 quotes = [];
